@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Yashvi Classes - Aligarh</title>
+
+<style>
+body{
+font-family: Arial;
+margin:0;
+background:#f4f4f4;
+}
+
+header{
+background:#1e3a8a;
+color:white;
+text-align:center;
+padding:20px;
+}
+
+nav{
+background:#2563eb;
+text-align:center;
+padding:10px;
+}
+
+nav a{
+color:white;
+margin:15px;
+text-decoration:none;
+font-weight:bold;
+}
+
+section{
+padding:30px;
+}
+
+.course-box{
+background:white;
+padding:15px;
+margin:10px 0;
+border-radius:8px;
+}
+
+footer{
+background:#1e3a8a;
+color:white;
+text-align:center;
+padding:15px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>Yashvi Classes</h1>
+<p>Quality Education For Bright Future</p>
+</header>
+
+<nav>
+<a href="#">Home</a>
+<a href="#">Courses</a>
+<a href="#">Contact</a>
+</nav>
+
+<section>
+
+<h2>Welcome to Yashvi Classes</h2>
+<p>Best coaching institute in Aligarh for school students.</p>
+
+<h2>Courses Offered</h2>
+
+<div class="course-box">
+<b>Class I to VIII</b><br>
+All Subjects
+</div>
+
+<div class="course-box">
+<b>Class IX to X</b><br>
+Maths, Science & Social Studies
+</div>
+
+<div class="course-box">
+<b>Class XI & XII (Commerce)</b><br>
+Commerce Subjects + Physical Education
+</div>
+
+<h2>Contact Us</h2>
+
+<p><b>Address:</b><br>
+Behind Great Value Mall,  
+PAC Vinay Nagar Colony,  
+Ramghat Road, Aligarh
+</p>
+
+<p><b>Mobile:</b><br>
+7531969007<br>
+9412444473<br>
+8218843896
+</p>
+
+</section>
+
+<footer>
+<p>© 2026 Yashvi Classes | Aligarh</p>
+</footer>
+
+</body>
+</html>
